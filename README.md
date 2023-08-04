@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/lorainecalamba" target="blank"><img src="https://img.shields.io/twitter/follow/lorainecalamba?logo=twitter&style=for-the-badge" alt="lorainecalamba" /></a> </p>
 
-- 🔭 I’m currently working on **react-laravel-reservation-system**
-
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently expanding my knowledge on Salesforce Development and its ecosystem
 
 - 👨‍💻 All of my projects are available at [https://github.com/lorainecalamba?tab=repositories](https://github.com/lorainecalamba?tab=repositories)
 
-- 📫 How to reach me **loraine902@gmail.com**
+- 📫 How to reach me **loraine.calamba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
