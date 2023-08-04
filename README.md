@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loraine</h1>
-<h3 align="center">A passionate salesforce developer from Philippines</h3>
+<h3 align="center">A passionate Salesforce Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorainecalamba&label=Profile%20views&color=0e75b6&style=flat" alt="lorainecalamba" /> </p>
 
