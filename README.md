@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Loraine</h1>
 <h3 align="center">A passionate Salesforce Developer from Philippines</h3>
 
@@ -22,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorainecalamba&show_icons=true&locale=en&layout=compact" alt="lorainecalamba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorainecalamba&show_icons=true&locale=en" alt="lorainecalamba" /></p>
+
+<div align="center"><a href="https://app.daily.dev/lorainecalamba"><img src="https://api.daily.dev/devcards/aee1c22d8eff46d6869e99fb32750926.png?r=mh5" width="400" alt="Loraine Calamba's Dev Card"/></a></div>
