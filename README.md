@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lorainecalamba" target="blank"><img src="https://img.shields.io/twitter/follow/lorainecalamba?logo=twitter&style=for-the-badge" alt="lorainecalamba" /></a> </p>
 
-- 🌱 I’m currently expanding my knowledge on Salesforce Development and its ecosystem
+- 🌱 I’m currently expanding my knowledge of Salesforce Development and its ecosystem
 
 - 👨‍💻 All of my projects are available at [https://github.com/lorainecalamba?tab=repositories](https://github.com/lorainecalamba?tab=repositories)
 
